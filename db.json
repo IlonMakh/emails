@@ -1,0 +1,6 @@
+{
+  "emails": [
+    { "id": 1, "email": "vasya@mail.com" },
+    { "id": 2, "email": "superman2000@gmail.ru" }
+  ]
+}
